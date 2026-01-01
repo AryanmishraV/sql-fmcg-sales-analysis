@@ -40,3 +40,14 @@ The dataset represents typical FMCG sales data including:
 This project showcases practical SQL skills required for entry-level
 and junior data analyst roles, with emphasis on solving business problems
 using structured queries.
+---
+
+## Dashboard Note
+
+This project intentionally focuses on **SQL-first business analysis**.
+
+Dashboards are treated as a **presentation layer** and can be built once
+the data model and business logic are finalized.
+
+The queries in `queries.sql` are directly designed to feed tools like
+Power BI or Tableau for dashboard creation.
