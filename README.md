@@ -51,3 +51,11 @@ the data model and business logic are finalized.
 
 The queries in `queries.sql` are directly designed to feed tools like
 Power BI or Tableau for dashboard creation.
+## Example Business Questions Answered
+
+- Which products contribute the highest revenue across regions?
+- Which regions show declining or inconsistent sales trends over time?
+- Which product categories drive high volume but underperform on revenue?
+
+Each question is answered using optimized SQL queries with joins,
+aggregations, and filters designed for real-world FMCG sales analysis.
